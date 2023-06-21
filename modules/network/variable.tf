@@ -1,0 +1,3 @@
+variable "appname" {}
+
+variable "environment" {}
